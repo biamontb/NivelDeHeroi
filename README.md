@@ -1,1 +1,2 @@
-# Projeto-DIO---Classificador-de-N-vel-de-Her-i-Javascript-
+Projeto DIO - Classificador de Nível de Herói
+Código feito em Javascript.
